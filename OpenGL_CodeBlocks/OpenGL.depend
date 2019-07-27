@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1560518642 source:d:\education\level-4 term-1 files\offlines\graphics\offline1\given materials\opengl\offline 2\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\education\level-4 term-1 files\offlines\graphics\offline1\given materials\opengl\offline 2\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1560523571 source:d:\education\level-4 term-1 files\offlines\graphics\offline1\offline 1 (task 3)\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\education\level-4 term-1 files\offlines\graphics\offline1\offline 1 (task 3)\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1564258063 source:d:\education\level-4 term-1 files\offlines\graphics\offline3\opengl_codeblocks\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+	<bitmap_image.h>
+	<string>
+
+1392007564 d:\education\level-4 term-1 files\offlines\graphics\offline3\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1493045688 d:\education\level-4 term-1 files\offlines\graphics\offline3\opengl_codeblocks\opengl\include\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1493045688 d:\education\level-4 term-1 files\offlines\graphics\offline3\opengl_codeblocks\opengl\include\bitmap_image.h
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1563147046 d:\education\level-4 term-1 files\offlines\graphics\offline3\opengl_codeblocks\opengl\include\lib.h
+
